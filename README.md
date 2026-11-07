@@ -1,6 +1,4 @@
-#Day1CookingMamaKhasnaMuthmainah
-
-1. Building with AI, Managing Change with GitHub
+Building with AI, Managing Change with GitHub
 
 Pemateri: Nugi Farhan
 
